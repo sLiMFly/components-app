@@ -29,3 +29,6 @@ Una vez abierta, presiona "a" para abrir en Android, "i" para iOS, "w" para verl
     <img src="/assets/images/screen3.png" alt="Componentes React Native Expo" width="200"/>
     <img src="/assets/images/screen4.png" alt="Componentes React Native Expo" width="200"/>
 </div>
+
+
+Ejercicio del curso de [Fernando Herrera](https://fernando-herrera.com/)
